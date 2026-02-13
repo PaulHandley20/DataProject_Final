@@ -1,0 +1,30 @@
+# === DATOS PESADOS (REQUISITO PARA GITHUB) ===
+# Ignoramos la base de datos original en la carpeta Raw para no superar el límite de 100MB
+Data/Raw/*.sqlite
+Data/Raw/*.db
+Data/Raw/*.zip
+
+# === PYTHON & JUPYTER ===
+# Archivos temporales que genera VS Code y Python al ejecutar el código
+_pycache_/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# === ENTORNOS VIRTUALES ===
+# Si creas un entorno virtual para instalar librerías, no debe subirse
+venv/
+env/
+.env
+
+# === SISTEMA ===
+# Archivos basura que crean Windows y macOS automáticamente
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# === DASHBOARD (OPCIONAL) ===
+# Si tu archivo de Power BI o Excel se vuelve muy pesado (>100MB), 
+# podrías tener que ignorarlo, pero por ahora se deja para que el profesor lo vea.
+# !Dashboard/*.pbix
