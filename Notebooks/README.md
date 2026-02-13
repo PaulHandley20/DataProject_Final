@@ -1,13 +1,12 @@
 # ⚽ Análisis de Datos y Predicción de Talento - Fútbol Europeo
 
 ## 👤 Autor
-*Lucas Ezequiel Bianchi*  
-Ingeniero en Sistemas / IT Engineer
+*Paul Handley Viggiano*  
 
 ---
 
 ## 📋 Descripción del Proyecto
-Este proyecto consiste en un análisis integral de una base de datos de fútbol europeo utilizando técnicas de *Data Science*. El objetivo es transformar datos brutos de jugadores en información estratégica para el scouting deportivo, siguiendo el flujo de analítica Descriptiva, Predictiva y Prescriptiva.
+Este proyecto consiste en un análisis integral de una base de datos de fútbol europeo utilizando técnicas de *Data Science* and *Data Analityc*. El objetivo es transformar datos brutos de jugadores en información estratégica para el scouting deportivo, siguiendo el flujo de analítica Descriptiva, Predictiva y Prescriptiva.
 
 
 
