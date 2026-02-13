@@ -47,3 +47,14 @@ Generación de una lista de *"Joyas Ocultas"*, identificando jugadores subestima
 
 ## 📈 Conclusiones
 El proyecto demuestra cómo la analítica de datos permite optimizar la toma de decisiones estratégicas, permitiendo a los clubes identificar talento de manera objetiva y eficiente.
+
+Lecciones Aprendidas y Reflexión Técnica
+El desarrollo de este proyecto representó un ciclo completo de aprendizaje en Ingeniería de Datos, dejando las siguientes lecciones clave:
+
+La Integridad del Dato es Todo: Identificar anomalías (como registros de edad inconsistentes de 7 años) antes de entrenar el modelo fue vital para asegurar que el RMSE de 2.68 fuera un reflejo real del mercado y no un sesgo del dataset.
+
+Gestión de Entornos en IT: Superar los conflictos de dependencias y la configuración de kernels en Visual Studio Code reforzó la importancia de trabajar con entornos virtuales (venv) para garantizar la reproducibilidad del software.
+
+Simbiosis Tecnológica: La combinación de la potencia de procesamiento de Python (manejando con éxito 181.265 registros) con la capacidad visual de Power BI permitió transformar estadísticas frías en un Dashboard operativo y fácil de interpretar para la toma de decisiones.
+
+Mentalidad de Solución: Más allá de la estética visual, la verdadera victoria fue lograr un modelo con un 85.2% de precisión, demostrando que la analítica predictiva es una herramienta indispensable en la industria moderna del deporte.
