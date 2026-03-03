@@ -150,9 +150,9 @@ DataProject_Final/
 ├── Notebooks/
 │   └── FinalProject.ipynb
 │
-├── requirements.txt
-├── README.md
-└── .gitignore
+├── README.md 
+├── .gitignore
+└── requirements.txt
 ```
 
 ## 6.3 Flujo de Ejecución
