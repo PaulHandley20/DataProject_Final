@@ -132,7 +132,13 @@ Se recomienda interpretar los KPIs en términos de:
 
 Python 3.11+
 
-Instalar dependencias:
+1. Clonar repositorio
+2. Crear entorno virtual
+3. Instalar dependencias
+4. Ejecutar notebook en orden
+5. Exportar dataset procesado
+
+3* Instalar dependencias:
 
 ```bash
 pip install -r requirements.txt
